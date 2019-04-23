@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-node_modules
+# ignore .vscode
 .vscode
-=======
 # Logs
 logs
 *.log
