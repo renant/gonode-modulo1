@@ -17,5 +17,5 @@ Deve haver um middleware que é chamado nas rotas `/major` e `/minor` e checa se
 
 
 ## Rodando o desafio
-`yarn install`
+`yarn install`;
 `yarn start`
